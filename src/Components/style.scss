@@ -1,0 +1,17 @@
+.height{
+    height: calc(100% - 132px);
+}
+.chatsHeight{
+    // top: 4px;
+    // height: ;
+    height: calc(100% - 180px);
+}
+.owner{
+    flex-direction: row-reverse;
+    
+    .msgContainer{
+        background-color: #005F4D;
+        color: white;
+        border-radius: 12px 0 12px 12px;
+    }
+}
